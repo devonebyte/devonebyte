@@ -16,9 +16,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=devonebyte&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -39,23 +36,8 @@
 
 <p align="center">
  <a href="https://devonebyte.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="devonebyte" />
+  <img src="https://img.shields.io/badge/Discord-DC143C?style=for-the-badge&logo=discord&logoColor=5865F2" alt="devonebyte" />
  </a>
- <a href="https://linkedin.com/in/al-siam" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="devonebyte"/>
- </a>
- <!-- <a href="https://dev.to/devonebyte" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="devonebyte" />
- </a> -->
- <a href="https://twitter.com/_devonebyte" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/_devonebyte" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="devonebyte" />
- </a> 
- <a href="https://facebook.com/devonebyte.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="devonebyte"  />
-  </a> 
 </p>
 <br/>
 <br/>
@@ -95,8 +77,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/devonebyte"><img alt="OneByte's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devonebyte&show_icons=true&count_private=true&theme=dark&bg_color=000&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/devonebyte"><img alt="OneByte's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devonebyte&langs_count=8&layout=compact&theme=dark&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/devonebyte"><img alt="OneByte's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devonebyte&show_icons=true&count_private=true&theme=dark&bg_color=000" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/devonebyte"><img alt="OneByte's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=devonebyte&langs_count=8&layout=compact&theme=dark&bg_color=000" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
