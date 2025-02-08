@@ -36,7 +36,7 @@
 
 <p align="center">
  <a href="https://devonebyte.com" target="blank">
-  <img src="https://img.shields.io/badge/Discord-DC143C?style=for-the-badge&logo=discord&logoColor=5865F2" alt="devonebyte" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="devonebyte" />
  </a>
 </p>
 <br/>
